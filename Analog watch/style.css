@@ -1,6 +1,8 @@
 *{
     margin: 0 px;
     padding: 0px;
+    box-sizing: border-box;
+    background-color: coral;
 }
 .clockcontainer{
     height: 40vw;
